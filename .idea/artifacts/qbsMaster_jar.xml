@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="qbsMaster:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/qbsMaster_jar</output-path>
+    <root id="archive" name="qbsMaster.jar">
+      <element id="module-output" name="qbsMaster" />
+    </root>
+  </artifact>
+</component>
